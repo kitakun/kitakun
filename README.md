@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### Doing some games in my free time between learning and working 🎮
+
+Here some which were finished till the end:
+
+[![PizzaGhest](https://img.shields.io/badge/Steam-PizzaGhest-yellow?style=for-the-badge&color=brightgreen&logo=ghostery&link=https://store.steampowered.com/app/1691270/Pizza_Ghest)](https://store.steampowered.com/app/1691270/Pizza_Ghest/)
+
+[![Squrim](https://img.shields.io/badge/Itchio-Squrim-yellow?style=for-the-badge&color=brightgreen&logo=Itch.io&link=https://kitakun.itch.io/squrim)](https://kitakun.itch.io/squrim)
+
 <!--
 **kitakun/kitakun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
