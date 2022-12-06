@@ -8,6 +8,10 @@ Here some which were finished till the end:
 
 [![Squrim](https://img.shields.io/badge/Itchio-Squrim-yellow?style=for-the-badge&color=brightgreen&logo=Itch.io&link=https://kitakun.itch.io/squrim)](https://kitakun.itch.io/squrim)
 
+And other activities:
+
+[![Js Charts](https://img.shields.io/badge/web-Js_Charts-yellow?style=for-the-badge&color=brightgreen&logo=internetexplorer&link=https://kitakun.github.io/telechart/)](https://kitakun.github.io/telechart/)
+
 <!--
 **kitakun/kitakun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
