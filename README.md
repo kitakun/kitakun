@@ -7,6 +7,8 @@ Here some which were finished till the end:
 [![PizzaGhest](https://img.shields.io/badge/Steam-PizzaGhest-yellow?style=for-the-badge&color=brightgreen&logo=ghostery&link=https://store.steampowered.com/app/1691270/Pizza_Ghest)](https://store.steampowered.com/app/1691270/Pizza_Ghest/)
 
 [![Squrim](https://img.shields.io/badge/Itchio-Squrim-yellow?style=for-the-badge&color=brightgreen&logo=Itch.io&link=https://kitakun.itch.io/squrim)](https://kitakun.itch.io/squrim)
+[![Facel](https://img.shields.io/badge/Itchio-Squrim-yellow?style=for-the-badge&color=brightgreen&logo=Itch.io&link=https://bagheads.itch.io/facel-jam-prototype)](https://bagheads.itch.io/facel-jam-prototype)
+[![PunkOn](https://img.shields.io/badge/Itchio-Squrim-yellow?style=for-the-badge&color=brightgreen&logo=Itch.io&link=https://bagheads.itch.io/punkon)](https://bagheads.itch.io/punkon)
 
 And other activities:
 
